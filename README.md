@@ -12,3 +12,10 @@ List of projects built with/for the amazing Scenic Elixir library
   - Showcases building a component for sharing on [hex](https://hex.pm/packages/scenic_clock)
 - [Ex_Checkout](https://github.com/civilcode/ex-checkout)
   - [Nerves](https://github.com/nerves-project/nerves) poncho and ScenicUI distributed checkout & barcode reader
+  
+## Video
+### LiveStream
+Date | Topic | Name | Twitch | YouTube
+---- | ----- | ---- | ------ | -------
+9/16/18|Game Development|#ScenicUX game development|[:white_check_mark:](https://www.twitch.tv/events/seL6IqcCR8-qk1BAgjMzTw)|:no_entry_sign:|
+### Recorded
