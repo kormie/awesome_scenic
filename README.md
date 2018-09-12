@@ -17,5 +17,9 @@ List of projects built with/for the amazing Scenic Elixir library
 ### LiveStream
 Date | Topic | Name | Twitch | YouTube
 ---- | ----- | ---- | ------ | -------
-9/16/18|Game Development|#ScenicUX game development|[:white_check_mark:](https://www.twitch.tv/events/seL6IqcCR8-qk1BAgjMzTw)|:no_entry_sign:|
+09/16/18|Game Development|#ScenicUX game development|[:white_check_mark:](https://www.twitch.tv/events/seL6IqcCR8-qk1BAgjMzTw)|:no_entry_sign:|
 ### Recorded
+Date | Topic | Name | Twitch | YouTube
+---- | ----- | ---- | ------ | -------
+09/07/18|Intro to Scenic|Introducing Scenic A Functional UI Framework|:no_entry_sign:|[:white_check_mark:](https://www.youtube.com/watch?v=1QNxLNMq3Uw)|
+09/07/17|Scenic early stages|Elixir Native UI|:no_entry_sign:|[:white_check_mark:](https://www.youtube.com/watch?v=77FW-jrCyCs)|
